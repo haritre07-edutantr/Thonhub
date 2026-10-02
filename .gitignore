@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.html-build/
+.local/
+.vercel/
+.mail-test-*/
+.portable-test-*/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite-journal
+*.db-wal
+*.db-shm
